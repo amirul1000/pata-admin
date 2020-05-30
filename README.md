@@ -4,7 +4,7 @@ Pata Admin template
 ==========================
 
 
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/DKd3gQhi6i0
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
